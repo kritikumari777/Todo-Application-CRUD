@@ -36,7 +36,3 @@ table tr td button {
     padding: 0;
     cursor: pointer;
 }
-
-.completed {
-    text-decoration: line-through;
-}
